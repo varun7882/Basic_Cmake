@@ -1,0 +1,2 @@
+/usr/bin/ar qc libs/libsumsub.a  CMakeFiles/sumsub.dir/src/sum.cpp.o CMakeFiles/sumsub.dir/src/sub.cpp.o
+/usr/bin/ranlib libs/libsumsub.a

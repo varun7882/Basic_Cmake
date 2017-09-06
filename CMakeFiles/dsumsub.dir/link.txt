@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/dsumsub.dir/src/dsumsub.cpp.o  -o exes/dsumsub -rdynamic libs/libsumsub.a 
